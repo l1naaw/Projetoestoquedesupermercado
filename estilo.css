@@ -1,0 +1,27 @@
+h1{
+    color: rgb(255, 175, 77);
+
+    font-size: 80px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    background-color: rgb(250, 235, 175);
+
+
+}
+
+ing {
+    margin-left: 50%;
+
+    border: rgb(253, 208, 123);
+    border-width: 2px;
+    border-style: solid;
+
+    max-width: 400px;
+    max-height: 300px;
+
+}
+
